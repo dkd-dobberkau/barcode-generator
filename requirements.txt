@@ -1,0 +1,4 @@
+python-barcode[images]>=0.15.1
+qrcode[pil]>=7.4.2
+treepoem>=3.25.0
+Pillow>=8.0.0
